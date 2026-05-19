@@ -1,6 +1,3 @@
--- Assignment 3: DCL & DML
--- Database: library_physical_db
-
 SET search_path TO library_physical_db;
 
 
